@@ -1,0 +1,111 @@
+{
+  "folders": {
+    "items": {
+      "src": {},
+      "test": {},
+      "host": {}
+    }
+  },
+  "packages": {
+    "Conch.Expand.Domain.Shared": {
+      "path": "src/Conch.Expand.Domain.Shared/Conch.Expand.Domain.Shared.abppkg.json",
+      "folder": "src"
+    },
+    "Conch.Expand.Domain": {
+      "path": "src/Conch.Expand.Domain/Conch.Expand.Domain.abppkg.json",
+      "folder": "src"
+    },
+    "Conch.Expand.Application.Contracts": {
+      "path": "src/Conch.Expand.Application.Contracts/Conch.Expand.Application.Contracts.abppkg.json",
+      "folder": "src"
+    },
+    "Conch.Expand.Application": {
+      "path": "src/Conch.Expand.Application/Conch.Expand.Application.abppkg.json",
+      "folder": "src"
+    },
+    "Conch.Expand.EntityFrameworkCore": {
+      "path": "src/Conch.Expand.EntityFrameworkCore/Conch.Expand.EntityFrameworkCore.abppkg.json",
+      "folder": "src"
+    },
+    "Conch.Expand.MongoDB": {
+      "path": "src/Conch.Expand.MongoDB/Conch.Expand.MongoDB.abppkg.json",
+      "folder": "src"
+    },
+    "Conch.Expand.HttpApi": {
+      "path": "src/Conch.Expand.HttpApi/Conch.Expand.HttpApi.abppkg.json",
+      "folder": "src"
+    },
+    "Conch.Expand.HttpApi.Client": {
+      "path": "src/Conch.Expand.HttpApi.Client/Conch.Expand.HttpApi.Client.abppkg.json",
+      "folder": "src"
+    },
+    "Conch.Expand.TestBase": {
+      "path": "test/Conch.Expand.TestBase/Conch.Expand.TestBase.abppkg.json",
+      "folder": "test"
+    },
+    "Conch.Expand.EntityFrameworkCore.Tests": {
+      "path": "test/Conch.Expand.EntityFrameworkCore.Tests/Conch.Expand.EntityFrameworkCore.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "Conch.Expand.MongoDB.Tests": {
+      "path": "test/Conch.Expand.MongoDB.Tests/Conch.Expand.MongoDB.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "Conch.Expand.Domain.Tests": {
+      "path": "test/Conch.Expand.Domain.Tests/Conch.Expand.Domain.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "Conch.Expand.Application.Tests": {
+      "path": "test/Conch.Expand.Application.Tests/Conch.Expand.Application.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "Conch.Expand.HttpApi.Host": {
+      "path": "host/Conch.Expand.HttpApi.Host/Conch.Expand.HttpApi.Host.abppkg.json",
+      "folder": "host"
+    },
+    "Conch.Expand.Web": {
+      "path": "src/Conch.Expand.Web/Conch.Expand.Web.abppkg.json",
+      "folder": "src"
+    },
+    "Conch.Expand.HttpApi.Client.ConsoleTestApp": {
+      "path": "test/Conch.Expand.HttpApi.Client.ConsoleTestApp/Conch.Expand.HttpApi.Client.ConsoleTestApp.abppkg.json",
+      "folder": "test"
+    },
+    "Conch.Expand.Web.Host": {
+      "path": "host/Conch.Expand.Web.Host/Conch.Expand.Web.Host.abppkg.json",
+      "folder": "host"
+    },
+    "Conch.Expand.IdentityServer": {
+      "path": "host/Conch.Expand.IdentityServer/Conch.Expand.IdentityServer.abppkg.json",
+      "folder": "host"
+    },
+    "Conch.Expand.Host.Shared": {
+      "path": "host/Conch.Expand.Host.Shared/Conch.Expand.Host.Shared.abppkg.json",
+      "folder": "host"
+    },
+    "Conch.Expand.Web.Unified": {
+      "path": "host/Conch.Expand.Web.Unified/Conch.Expand.Web.Unified.abppkg.json",
+      "folder": "host"
+    },
+    "Conch.Expand.Blazor": {
+      "path": "src/Conch.Expand.Blazor/Conch.Expand.Blazor.abppkg.json",
+      "folder": "src"
+    },
+    "Conch.Expand.Blazor.Host": {
+      "path": "host/Conch.Expand.Blazor.Host/Conch.Expand.Blazor.Host.abppkg.json",
+      "folder": "host"
+    },
+    "Conch.Expand.Blazor.Server": {
+      "path": "src/Conch.Expand.Blazor.Server/Conch.Expand.Blazor.Server.abppkg.json",
+      "folder": "src"
+    },
+    "Conch.Expand.Blazor.WebAssembly": {
+      "path": "src/Conch.Expand.Blazor.WebAssembly/Conch.Expand.Blazor.WebAssembly.abppkg.json",
+      "folder": "src"
+    },
+    "Conch.Expand.Blazor.Server.Host": {
+      "path": "host/Conch.Expand.Blazor.Server.Host/Conch.Expand.Blazor.Server.Host.abppkg.json",
+      "folder": "host"
+    }
+  }
+}

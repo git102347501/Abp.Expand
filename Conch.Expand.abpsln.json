@@ -1,0 +1,7 @@
+{
+  "modules": {
+    "Conch.Expand": {
+      "path": "Conch.Expand.abpmdl.json"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Conch.Expand.Web": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:58648;http://localhost:58649"
+    }
+  }
+}

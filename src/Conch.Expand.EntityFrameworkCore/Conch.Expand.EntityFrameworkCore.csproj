@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <Import Project="..\..\common.props" />
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>Conch.Expand</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Volo.Abp.EntityFrameworkCore" Version="5.3.0" />
+    <ProjectReference Include="..\Conch.Expand.Domain\Conch.Expand.Domain.csproj" />
+  </ItemGroup>
+
+</Project>
